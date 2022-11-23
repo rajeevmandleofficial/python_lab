@@ -6,3 +6,4 @@ l1 = s.split()
 l2 = [len(x) for x in l1]
 print("list with lenth of string s for another list :", l2)
 #
+#
