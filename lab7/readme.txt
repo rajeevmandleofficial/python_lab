@@ -13,3 +13,6 @@ LAB-7
 12.	WAP to demonstrate Hybrid level inheritance.
 13.	WAP to create a parent class named Shape with a member method area() which has no definition, derive two child classes Circle and Triangle, implement the area() in both the child classes and necessary member methods to input necessary data. Display the area of Circle
 14.	WAP to create a parent class names Person with two member methods about() and biodata() without any definitions, derive two child classes named Actor and Actress, both should implement the about() to store the person’s name along with other details and biodata() details of the cinema they have done. Also include necessary members so that we can store and view 5 Actor and Actresses details.
+
+
+#
