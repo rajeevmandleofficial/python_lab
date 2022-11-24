@@ -21,6 +21,3 @@ for i in range(n):
     print(query)
     mycursor.execute(query)
 mydb.commit()
-
-query = "select * from student "
-mycursor.execute(query)
